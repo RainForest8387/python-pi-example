@@ -5,4 +5,4 @@ def main(msg):
 print(msg)
 def(secendary):
     print("New function")
-main("Hello People")
+main("Hello People!")
